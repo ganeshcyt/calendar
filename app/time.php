@@ -1,3 +1,3 @@
 <?php
- echo "show current local time";
+ echo "show current local time in my machine";
 ?>
