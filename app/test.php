@@ -1,4 +1,6 @@
 <?php
+<<<<<<< KARTHIK CHANGE HERE 
+<<<<<<< END
 <<<<<<< HEAD
  echo "test a project--------written by asha";
 =======
