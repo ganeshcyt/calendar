@@ -196,9 +196,10 @@ if($mobile_browser>0){
 $browser_t = "mobile";
 
 }
-// non-mobile
+// non-mobile ---  changes added on 14-04-2015
 else
 {
+$a='test';
 $_SESSION['Browser_d'] = "web";
 $browser_t = "web";
 }
